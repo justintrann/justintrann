@@ -1,3 +1,6 @@
+127.0.0.1  localhost
+::1  localhost
+
 # [accesstrade.vn]
 127.0.0.1 cv.accesstrade.vn
 127.0.0.1 partner.accesstrade.vn
