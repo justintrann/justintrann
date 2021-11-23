@@ -1,6 +1,2 @@
-# [accesstrade.vn]
-127.0.0.1 cv.accesstrade.vn
-127.0.0.1 partner.accesstrade.vn
-127.0.0.1 service-api.accesstrade.vn
-127.0.0.1 static.accesstrade.vn
-127.0.0.1 track.accesstrade.vn
+Was born in Saigon, Vietnam. I'm currently IT student from Ho Chi Minh University Of Education.
+I care about data, history, art, tech.
